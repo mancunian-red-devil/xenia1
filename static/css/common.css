@@ -113,3 +113,7 @@ body{
   visibility: hidden; 
 }
 
+#schematicImg{
+	width: 300px;
+	height: 300px;
+}
