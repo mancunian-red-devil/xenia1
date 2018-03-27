@@ -23,7 +23,7 @@ body{
 
 #homeStockImage{
 	width: 100%;
-	height: 100%;
+	height: 300px;
 }
 
 #snippetContainer{
@@ -124,4 +124,9 @@ body{
 	margin-top: 5px;
 	font-weight: 600;
 	font-size: 20px;
+}
+
+.founderName{
+	font-weight: 600;
+
 }
