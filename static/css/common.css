@@ -6,6 +6,11 @@ body{
 	position: relative;
 }
 
+#mastHeadNameImage{
+	height: 50px;
+	margin-top: -2px;
+}
+
 #mastheadLogo{
 	height: 53px;
 	width: 53px;
